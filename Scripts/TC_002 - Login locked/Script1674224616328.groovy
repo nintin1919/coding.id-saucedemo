@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.saucedemo.com/')
+
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31'), 'locked_out_user')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549'), 
+    'qcu24s4901FyWDTwXGr6XA==')
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57'))
+
+WebUI.closeBrowser()
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Data Driven</description>
+   <name>DD_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e71d0791-49f7-4f40-b222-66d5c0dc3ed0</testCaseGuid>
+</TestCaseEntity>
